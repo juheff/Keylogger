@@ -1,1 +1,1 @@
-# Keylogger
+The agenda of this project is to design and implement a secure keylogger using Python and its libraries. The keylogger will be developed to enhance user security by monitoring and recording keystrokes without compromising sensitive information. Emphasis will be placed on creating a tool that can be used for legitimate purposes, such as parental control, employee monitoring, and data recovery, while ensuring it remains protected against potential malicious use.
